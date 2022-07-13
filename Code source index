@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Seconde chance</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header class="header">
+    <div class="logo">
+      
+    <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F7%2F9%2Fa%2F79a7c658-d901-417b-a280-8f530622a002" alt="spanga" width="100" height="80">
+    </div>
+    <div class="images">
+    <img class="header-img"  src="https://www.planet-mammiferes.org/wp-content/uploads/2019/08/Chien-abandonn%C3%A9.jpg" alt="football" width="100" height="80">
+    <img class="header-img"  src=" https://www.santevet.com/upload/admin/images/article/Chien%202/chien_d%C3%A9prime/chiens%20et%20abandons.jpg" alt="football" width="100" height="80">
+    <img class="header-img"  src="https://wamiz.com/uploads/images/photo%20abandons%20140%20chiens.jpg" alt="sport" width="100" height="80">
+    <img class="header-img"  src="https://static.wamiz.com/images/news/facebook/article/abandon-chien-fb-5d3eb0b4aa448.jpg" alt="sport" width="100" height="80">
+    
+    <img class="header-img"  src="https://static.lexpress.fr/medias_11994/w_640,h_358,c_fill,g_center/v1582210967/un-chien-en-attente-d-adoption-dans-un-refuge-en-ukraine-en-2017-illustration_6140972.jpg" alt="kyojuro" width="100" height="80">
+    <img class="header-img"  src="https://www.shmadrid.fr/blog/fr/wp-content/uploads/2018/01/chien-abandonne-810x540.jpg" alt="one piece" width="100" height="80">
+    
+    <img class="header-img"  src="https://i0.wp.com/leffervescent.fr/wp-content/uploads/2021/12/dog-g69b2db961_1920.jpeg?resize=700%2C467&ssl=1" alt="Ichigo" width="100" height="80">
+      <img class="header-img"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60wcjfzpdNKBCwENGTNJoJBsnEzN90gU4tA&usqp=CAU" alt="Ichigo" width="100" height="80">
+      
+    </div>
+      <div class=boutons>
+      <button class="btn-inscription" type="submit">S'inscrire</button>
+      <button class="btn-connexion" type="submit">Se connecter</button>
+      </div>
+  </header>
+  
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navigation</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          
+            Association
+            </a>
+            <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+              <li><a class="dropdown-item" href="#">Information</a></li>
+              <li><a class="dropdown-item" href="#">Equipe</a></li>
+              <li><a class="dropdown-item" href="evenement.html">Evenement</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Processus d'adoption
+          </a>
+          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+            <li><a class="dropdown-item" href="#">Formulaire</a></li>
+            <li><a class="dropdown-item" href="#">Réservation</a></li>
+            <li><a class="dropdown-item" href="#">Contrat</a></li>
+          </ul>
+        </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Nos animaux
+          </a>
+          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+            <li><a class="dropdown-item" href="#">Chien</a></li>
+            <li><a class="dropdown-item" href="#">Chat</a></li>
+          </ul>
+        </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Faire un don
+            </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+      <form class="d-flex">
+         <input class="form-control me-2" type="search" placeholder="Search" arialabel="
+Search">
+      <button class="btn btn-outline-light" type="submit">Search</button>
+     </form>
+</nav>
+      
+    </nav>
+  <div class="container">
+ 
+  <article class="article1">
+    <section class="presentation">
+       L'association a été créée en Guadeloupe en 2010, répondant à un grand besoin de structure pour recueillir, soigner, et trouver un foyer pour les nombreux chiens malheureux de l'île.
+
+Les loulous recueillis, adultes ou chiots, sont placés en familles d'accueil où ils sont rassurés, bien nourris et chouchoutés. Ils découvrent la vie de famille, quelques bases d’éducation, et chaque mois une quarantaine de nos petits protégés s'envole pour rejoindre des adoptants impatients en Métropole.
+
+Restez avec nous, nous allons vous les présenter et qui sait, ça sera peut-être le début d’une belle histoire…
+    </section>
+   </article>  
+    <article class="article2">
+     Agissons ensemble
+
+Nous ne disposons d'aucun local, refuge et subvention. Nous fonctionnons grâce au bénévolat, aux frais d’adoption qui couvrent une partie des dépenses, mais surtout aux dons et aux parrainages qui nous permettent, en plus des soins de base et des stérilisations pour les adultes, de soigner et sauver les toutous malades ou accidentés pour lesquels les frais vétérinaires sont lourds..<br>
+      <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2Fa%2Fb%2F5%2Fab5023a6-3ea2-434b-b390-c040c3145621" alt="kyojuro" width="350" height="300">
+       <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F0%2Ff%2F4%2F0f4f72cd-b24e-42b9-b59d-4d4396c63455" alt="kyojuro" width="350" height="300"><br> 
+
+Nos chiens à l'adoption!
+
+Les chiots à réserver sont des chiens qui n'ont pas encore leur puce électronique, ou qui sont en cours d'évaluation par nos comportementalistes.
+
+Les chiens réservés sont les chiens dont le dossier d'adoption a été validé en attente de la pré-visite d'adoption<br>
+     <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F9%2F8%2F3%2F98341845-d495-48a5-ae06-b6a1b6db5c2d" alt="kyojuro" width="350" height="300">
+      <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F1%2Fa%2F6%2F1a6070a7-3ce9-42ef-8914-2e8db249ba62" alt="kyojuro" width="350" height="300"> 
+      
+    </article>
+    <article class="article3">
+     Nos sauvetages récents<br>
+
+Nous vous présentons nos derniers sauvetages, ils pourront être adoptés après leur visite chez le vétérinaire et l'évaluation de leurs comportements et besoins par notre comportementaliste.<br>
+
+     <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F5%2Fa%2F5%2F5a528a1c-c0af-4345-acc0-84a0f3ff91c0" alt="kyojuro" width="350" height="300">
+      <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F4%2F9%2Ff%2F49fd2466-1e27-43fd-be64-15eb941d7c7c" alt="kyojuro" width="350" height="300"><br> 
+      
+      Tatum a besoin de vous
+
+Percuté par une voiture un ange gardien l'a sécurisé et a fait appel à l'association pour lui venir en aide. Tatum a du être opéré en urgence de sa patte arrière, 3 broches ont été posées pour la consolider. Il a été testé positif aux vers du cœur et devra aussi se faire opérer des glandes de harder pour retrouver un regard de prince charmant.
+
+Tous ces soins coutent très chers, nous faisons appel à votre générosité.
+
+Petits ou grands, tous les dons comptent. Pour faciliter les petits dons, nous avons créé une cagnotte Leetchi :
+
+http://www.leetchi.com/c/tatum-sag
+
+Nous vous remercions chaleureusement de votre soutien !<br>
+      <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F1%2F0%2F4%2F1044ed3e-b4a8-4b43-90a7-ae5e5aece733" alt="kyojuro" width="350" height="300">
+     <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F3%2F5%2F7%2F357b3e3e-0b5a-4e2f-9743-5ab67066a6ba" alt="kyojuro" width="350" height="300"> <br>
+      Avec mes frères et sœurs nous avons été recueillis par l'association. La famille qui a trouvé notre maman ne pouvait pas tous nous garder, on était beaucoup trop nombreux. Depuis on vit chez notre super tatie. L'important pour moi c'est de jouer avec mes amis chiens et chats, de couvrir mes humains de léchouilles, de câlins et de manger une bonne gamelle. Si vous êtes prêt à recevoir plein d'amour n'hésitez plus, je suis le chien qu'il vous faut !<br>
+      <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F5%2F3%2F0%2F53007e4e-f532-4e99-b59f-fbb248b8cf47" alt="kyojuro" width="350" height="300">
+      <img class="header-img"  src="https://media-s.hubside.com/5e59aea8-9b51-49bd-979f-344f6a1432de%2Fmedia%2F3%2F2%2F6%2F3263b63b-1261-4a79-a5d6-3660fe446c99" alt="kyojuro" width="350" height="300">
+      
+      <br> 
+      Rendez-vous sur la page Facebook de l'association Secours Animaux Guadeloupe pour davantage d'informations sur les loulous disponibles à l'adoption. Vous pourrez aussi consulter nos derniers sauvetages et devenir parrain/marraine.
+<br>
+13 600 likes / 14 400 abonnés
+
+
+    </article>
+    <aside class="aside">
+     Comment adopter votre compagnon?
+
+Afin de placer au mieux nos chiens selon leurs caractères, nos familles d'accueil travaillent quotidiennement avec notre comportementaliste pour déterminer les besoins et comportements de chacun de nos chiens.<br>
+      Nos comportementalistes accompagnent nos familles d'accueil et les adoptants dans les premiers mois du loulou.
+
+
+
+Pour placer au mieux chacun de nos protégés nous réalisons :
+
+des tests de solitudes
+des test en milieu urbanisé
+des rencontres avec des enfants du plus petit au plus grand
+des rencontres avec des chiens, chats et autres animaux de la ferme lorsque c'est possible
+
+
+Notre équipe adoption vous conseillera au mieux pour vous proposer le loulou qui vous conviendra le mieux, tout en tenant compte de vos choix.
+    </aside>
+      <aside class="aside2">
+      Faites un don pour les soigner
+
+A force de patiente et de détermination, nous pouvons redonner une nouvelle chance aux petits malheureux qui croisent notre chemin. Grâce à vos dons, nous pouvons leur prodiguer les meilleurs soins et tenter de les reconstruire pour qu'ils prennent un nouveau départ.
+
+Si vous souhaitez y contribuer, vous pouvez verser votre don via Paypal, déductible de vos impôts, en cliquant-ici
+<br>
+        1€/mois
+
+pour sauver les chiots errants
+
+En nous unissant, nous pouvons lutter contre la prolifération des animaux errants en Guadeloupe grâce à la stérilisation, au travers de micro-dons d'1 € par mois. Vous pouvez verser votre don sur la plateforme Teaming, en cliquant-ici.<br>
+        Parrainez votre protégé
+
+Il s'agit d'un don de 60€, qui nous aide à financer les premiers soins vétérinaires. Le parrain ou la marraine peut choisir le prénom de son protégé et suivre son évolution dans sa famille d'accueil, avec laquelle il est mis en relation.
+
+Vous pouvez verser votre don via Paypal, déductible de vos impôts, en cliquant-ici ou en répondant à l'une de nos annonces en cliquant-ici
+    </aside>
+    
+    </div>
+  
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+  <footer class="footer">
+      <a href="#Apropos">À propos</a>
+      <a href="#Contact">Contact</a>
+  </footer>
+</body>
+
+</html>
